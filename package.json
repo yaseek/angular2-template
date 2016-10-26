@@ -1,14 +1,14 @@
 {
-  "name": "es6",
+  "name": "angular2-template",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "This repository maked for easy start development with angular2, webpack and babel-es6 infrastructure",
+  "main": "src/app.js",
   "scripts": {
     "postinstall": "./node_modules/.bin/webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@angular/common": "^2.1.1",
     "@angular/compiler": "^2.1.1",
